@@ -10,5 +10,5 @@ spring:
     show-sql: true
   security:
     user:
-      name: admin
-      password: admin
+      name: user
+      password: user
